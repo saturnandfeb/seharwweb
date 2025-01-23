@@ -1,0 +1,104 @@
+.color {
+    background-color: rgba(0, 0, 0, 0.541);
+    height: 800px;
+    padding-top: 5%;
+    background-image:url(./assets/b4185293-464a-4479-bcc4-042b1b8ad1d9.jpg);
+    
+}
+
+.h11 {
+    font-size: 80px;
+    color:  #fefbd8 ;
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+  font-weight:300;
+  font-style:normal;
+  font-variation-settings:
+    "wdth" 200;
+    text-align: left;
+  
+}
+
+
+.lead {
+    font-size: 20px;
+    color:  #fefbd8;
+    font-weight: 200;
+    text-align: left;
+    padding-top: 1%;
+
+}
+
+.testimonial{
+    background-color: rgba(0, 0, 0, 0.527);
+    margin: 0;
+    padding: 0;
+
+}
+
+.profile-img {
+    height: 200px;
+    border-radius: 50%;
+}
+
+.h22 {
+    color: #fefbd8;
+    font-family: "Roboto", serif;
+  font-weight:300;
+  font-style:normal;
+  font-variation-settings:
+    "wdth" 200;
+}
+
+.h33 {
+    color: #fefbd8;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.skills {
+    background-color: #36486b ;
+    text-align: center;
+   
+}
+
+.myy{
+    font-size: 40px;
+    font-family: "Roboto", serif;
+  font-style:normal;
+  font-variation-settings:
+    "wdth" 200;;
+    color: #fefbd8;
+    font-weight: 200;
+
+}
+
+.myy2 {
+    background-color: rgba(0, 0, 0, 0.527);
+    color: #fefbd8;
+    font-weight: 200;
+    font-family: "Roboto", serif;
+  font-style:normal;
+  font-variation-settings:
+    "wdth" 200;;
+}
+
+.parent {
+    text-align: left;
+    padding-left: 30%;
+    color: #fefbd8;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.contact {
+    background-color: #618685 ;
+    text-align: center;
+}
+
+.bottom {
+    background-color:#fefbd8;
+}
+
+
+
